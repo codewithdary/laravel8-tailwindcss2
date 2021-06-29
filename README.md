@@ -15,7 +15,7 @@ Change directories into your project <br>
 Make sure that you install composer <br>
 ```composer install```
 
-If you have composer installed, then update it <br>
+If you have composer installed, then update it (Optional) <br>
 ```composer update```
 
 Create the .env file by duplicating the .env.example <br>
