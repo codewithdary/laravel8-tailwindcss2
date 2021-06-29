@@ -12,6 +12,12 @@ Clone the project <br>
 Change directories into your project <br>
 ```cd laravel8-tailwindcss2```
 
+Make sure that you install composer 
+```composer install```
+
+If you have composer installed, then update it
+```composer update```
+
 Create the .env file by duplicating the .env.example <br>
 ```cp .env.example .env```
  
@@ -21,7 +27,6 @@ Set the APP_KEY value <br>
 Clear your cache & config (Optional) <br>
 ```php artisan cache:clear```
 ```php artisan config:clear```
-
 
 Run your project in the browser <br>
 ```php artisan serve```
