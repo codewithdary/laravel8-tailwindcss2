@@ -6,7 +6,7 @@ This Laravel framework is running on a version of 8.48.2 and TailwindCSS is runn
 
 ## Usage
 
-Clone the project
+Clone the project <br>
 ```git clone git@github.com:Darynazar/laravel8-tailwindcss2.git```
 
 Create the .env file by duplicating the .env.example
