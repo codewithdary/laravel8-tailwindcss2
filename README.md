@@ -47,4 +47,3 @@ Finally, run your project in the browser!
 ```
 php artisan serve
 ```
-![image](https://user-images.githubusercontent.com/63154066/126394210-84395be4-85b1-41ea-8eee-a5202e305f1a.png)
