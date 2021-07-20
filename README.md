@@ -1,10 +1,10 @@
 ## Laravel 8  & TailwindCSS 2 skeleton
 
 Whether you’re watching my tutorials or you are interested in cloning this repo where TailwindCSS is already implemented in an empty Laravel 8 project!
-
-•	Author: Code With Dary 
-•	Twitter: @codewithdary
-•	Instagram: @codewithdary
+<br>
+•	Author: Code With Dary <br>
+•	Twitter: @codewithdary <br>
+•	Instagram: @codewithdary <br>
 
 ## Requirements
 •	PHP 7.3 or higher
