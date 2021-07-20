@@ -12,7 +12,7 @@ Whether you’re watching my tutorials or you are interested in cloning this rep
 ## Version
 This Laravel framework is running on a version of 8.48.2 and TailwindCSS is running on 2.2.4.
 
-Usage
+## Usage <br>
 Clone the repository <br>
 ```
 git clone git@github.com:codewithdary/laravel8-tailwindcss2.git
