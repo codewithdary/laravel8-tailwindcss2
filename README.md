@@ -40,7 +40,7 @@ php artisan key:generate
 
 Clear your cache & config (OPTIONAL)
 ``` 
-php artisan cache:Clear && php artisan config:clear
+php artisan cache:clear && php artisan config:clear
 ```
 
 Finally, run your project in the browser!
